@@ -4,7 +4,7 @@ The first major progam that I ever built was a rubik's cube simulation in python
 
 ## Getting Started
 
-Clone this repository and run
+Clone this repository and run:
 ```
 python main.py
 ```
